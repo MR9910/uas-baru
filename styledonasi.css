@@ -1,0 +1,40 @@
+html,
+*{
+ font-family: Sogue UI;
+}
+
+footer{
+    padding: 15px;
+    background-color: #3E4D53;
+    margin-top: 50px;
+    }
+.wrapper-col-1 a{
+    text-decoration: none;
+    color: white;
+    font-size: 18px;
+    font-family: 'Segoe UI';
+}
+.wrapper-col-2 a{
+    text-decoration: none;
+    color: white;
+    font-size: 18px;
+    font-family: 'Segoe UI';
+}
+.wrapper-col-3 a{
+    text-decoration: none;
+    color: white;
+    font-size: 18px;
+    font-family: 'Segoe UI';
+    
+}
+.wrapper-col-4 a{
+    text-decoration: none;
+    color: white;
+    font-size: 18px;
+    font-family: 'Segoe UI';
+}
+    
+
+
+
+

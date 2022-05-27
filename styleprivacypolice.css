@@ -1,0 +1,17 @@
+html,
+*{
+ font-family: Sogue UI;
+}
+
+.p-2{
+    display: flex;
+    height: 100%;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20px;
+}   
+    
+
+
+
+

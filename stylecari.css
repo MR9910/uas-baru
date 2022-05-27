@@ -1,0 +1,21 @@
+html,
+*{
+ font-family: Sogue UI;
+}
+
+.card{
+    box-shadow: 2px 2px 6px #727272;
+   }
+   
+   .p-2{
+    display: flex;
+    height: 100%;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20px;
+}   
+    
+
+
+
+
