@@ -1,0 +1,37 @@
+*{
+    font-family: Sogue UI;
+}
+.warna-bg{
+    background:#0099ff;
+}
+.jumbotron{
+    box-shadow: 2px 2px 6px #727272;
+}
+.container{
+    text-align: center;
+}
+.card1{
+    box-shadow: 2px 2px 6px #727272;
+}
+.card-text{
+    text-align: justify;
+}
+.jumbotron-fluid{
+    background: #0099ff;
+}
+.card-text{
+    color: black;
+}
+.h1{
+    color: #0099ff;
+}
+.btn-primary{
+    background-color: #0099ff;
+}
+.p-2{
+    display: flex;
+    height: 100%;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20px;
+}
