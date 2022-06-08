@@ -2,29 +2,34 @@ html,
 *{
  font-family: Sogue UI;
 }
+.container{
+    display: flex;
+    height: 100%;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    -moz-box-shadow: 0 0 5px #888;
+    -webkit-box-shadow: 0 0 5px#888;
+    box-shadow: 0 0 5px #888;
+    border-radius: 8pt;
+}
 .container2{
     display: flex;
     height: 100%;
     align-items: center;
     justify-content: center;
-   }
-   .container .h2{
+}
+.container .h2{
     align-items: center;
-   }
-   .login-form{
+}
+.login-form{
     margin-top: 70px;
     margin-bottom: 40px;
     height:auto;
     width: 720px;
     box-shadow: 2px 2px 5px #727272;
     background-color: #0099ff;
-   }
-
-footer{
-    padding: 15px;
-    background-color: #3E4D53;
-    margin-top: 50px;
-    }
+}
 .wrapper-col-1 a{
     text-decoration: none;
     color: white;
@@ -51,7 +56,25 @@ footer{
     font-size: 18px;
     font-family: 'Segoe UI';
 }
-    
+.bi-house-door-fill{
+    color: #0099ff;
+    margin-right: 8px;
+}
+.bi-envelope-fill{
+    color: #0099ff;
+    margin-right: 8px;
+}
+.bi-telephone-fill{
+    color: #0099ff;
+    margin-right: 8px;
+}
+.bi-printer-fill{
+    color: #0099ff;
+    margin-right: 8px;
+}
+.bi-icon{
+    color:#0099ff;
+}
 
 
 

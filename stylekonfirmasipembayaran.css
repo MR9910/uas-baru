@@ -17,14 +17,7 @@
 }
 .container2{
     text-align: center;
-    -moz-box-shadow: 0 0 5px #0099ff;
-    -webkit-box-shadow: 0 0 5px#0099ff;
-    box-shadow: 0 0 5px #0099ff;
     border-radius: 8pt;
-    margin-top: 20px;
-    margin-bottom: 20px;
-    margin-left: 63px;
-    margin-right: 63px;
 }
 .container-fluid{
     text-align: center;

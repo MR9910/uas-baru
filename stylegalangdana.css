@@ -17,33 +17,23 @@
 }
 .container2{
     text-align: center;
-    -moz-box-shadow: 0 0 5px #0099ff;
-    -webkit-box-shadow: 0 0 5px#0099ff;
-    box-shadow: 0 0 5px #0099ff;
     border-radius: 8pt;
-    margin-top: 20px;
-    margin-bottom: 20px;
-    margin-left: 63px;
-    margin-right: 63px;
 }
 .container-fluid{
     text-align: center;
     margin-bottom: 20px;
     margin-top: 50px;
+
 }
 .container6{
-    margin-right: 400px;
-    margin-left: 400px;
-    margin-top: 40px;
-    margin-bottom: 40px;
-    -moz-box-shadow: 0 0 5px #0099ff;
-    -webkit-box-shadow: 0 0 5px #0099ff;
-    box-shadow: 0 0 5px #0099ff;
-    border-radius: 8pt;
+    margin-right: 350px;
+    margin-left: 350px;
 }
-.card1{
-    box-shadow: 2px 2px 6px #727272;
-    border-radius: 8pt;
+.card{
+    -moz-box-shadow: 0 0 5px #0099ff;
+    -webkit-box-shadow: 0 0 5px#0099ff;
+    box-shadow: 0 0 5px #0099ff;
+    border-radius: 8pt;    
 }
 .card-body{
     background-color: white;
@@ -51,9 +41,7 @@
 }
 .card-text{
     color: black;
-    text-align: center;
-    margin-left: 60px;
-    margin-right: 60px;
+    text-align: justify;
 }
 .h1{
     color: #0099ff;
@@ -84,7 +72,10 @@ section {
     background: white;
     padding: 1rem 1rem 1rem 1rem;
     border-radius: 0.5rem;
-    box-shadow: 7px 7px 30px -5px rgba(0,0,0,0.1);
+    -moz-box-shadow: 0 0 5px #0099ff;
+    -webkit-box-shadow: 0 0 5px#0099ff;
+    box-shadow: 0 0 5px #0099ff;
+    border-radius: 8pt; 
     margin-bottom: 2rem;
 }
 .ico-wrap {
@@ -124,9 +115,6 @@ h2 {
 .display-6 {
     font-family: 'Source Sans Pro',sans-serif;
     font-size: 1re
-}
-.mbr-iconfont{
-    color: rgb(4, 241, 162);
 }
 .bi-house-door-fill{
     color: #0099ff;

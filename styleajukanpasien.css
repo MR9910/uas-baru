@@ -8,7 +8,7 @@
     text-align: center;
     -moz-box-shadow: 0 0 5px #888;
     -webkit-box-shadow: 0 0 5px#888;
-    box-shadow: 0 0 5px #888;
+
     border-radius: 8pt;
 }
 .container1{
@@ -17,14 +17,7 @@
 }
 .container2{
     text-align: center;
-    -moz-box-shadow: 0 0 5px #0099ff;
-    -webkit-box-shadow: 0 0 5px#0099ff;
-    box-shadow: 0 0 5px #0099ff;
     border-radius: 8pt;
-    margin-top: 20px;
-    margin-bottom: 20px;
-    margin-left: 63px;
-    margin-right: 63px;
 }
 .container-fluid{
     text-align: center;
@@ -32,14 +25,8 @@
     margin-top: 50px;
 }
 .container6{
-    margin-right: 400px;
-    margin-left: 400px;
-    margin-top: 40px;
-    margin-bottom: 40px;
-    -moz-box-shadow: 0 0 5px #0099ff;
-    -webkit-box-shadow: 0 0 5px #0099ff;
-    box-shadow: 0 0 5px #0099ff;
-    border-radius: 8pt;
+    margin-right: 100px;
+    margin-left: 100px;
 }
 .card1{
     box-shadow: 2px 2px 6px #727272;
@@ -51,9 +38,7 @@
 }
 .card-text{
     color: black;
-    text-align: center;
-    margin-left: 60px;
-    margin-right: 60px;
+    text-align: justify;
 }
 .h1{
     color: #0099ff;
@@ -115,8 +100,7 @@ h2 {
 .mbr-bold {
     font-weight: 700;
 }
-
- p {
+p {
     padding-top: 0.5rem;
     padding-bottom: 0.5rem;
     line-height: 25px;
@@ -125,8 +109,8 @@ h2 {
     font-family: 'Source Sans Pro',sans-serif;
     font-size: 1re
 }
-.mbr-iconfont{
-    color: rgb(4, 241, 162);
+.card-body{
+    box-shadow: 2px 2px 6px #0099ff;
 }
 .bi-house-door-fill{
     color: #0099ff;
